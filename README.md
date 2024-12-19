@@ -79,6 +79,8 @@ Eventix is an event management app that is feature-rich and designed to create, 
     ```bash
     npm run dev
     # or
+    bun run dev
+    # or
     yarn dev
     ```
 
